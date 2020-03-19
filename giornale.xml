@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+
+<giornale>
+    <articolo autore="x">
+        <titolo>x</titolo>
+        <sottotitolo>x</sottotitolo>
+        <corpo>x</corpo>
+        <note>x</note>
+    </articolo>
+</giornale>
